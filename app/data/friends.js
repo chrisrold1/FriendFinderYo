@@ -48,7 +48,8 @@ const friends = [{
     },
     {
         "name": "Kodak Blakk",
-        "photo": "https://res.cloudinary.com/jerrick/image/upload/f_auto,fl_progressive,q_auto,c_fit,w_620/qryzqb2ljmkmoxbhmvvu",
+        "photo": "https://db2316p26jqyw.cloudfront.net/wp-content/uploads/2018/12/Kodak-Black.jpg?x99374",
+        "photo": "",
         "scores": [
             3,
             5,
@@ -63,8 +64,8 @@ const friends = [{
         ]
     },
     {
-        "name": "Chidi Adagonye",
-        "photo": "https://pixel.nymag.com/imgs/daily/vulture/2018/09/27/27-chidi-the-good-place-1.w330.h330.jpg",
+        "name": "DJ Khaled",
+        "photo": "https://thenypost.files.wordpress.com/2016/07/khaled1a.jpg?quality=90&strip=all&w=978&h=652&crop=1",
         "scores": [
             1,
             3,
@@ -79,8 +80,8 @@ const friends = [{
         ]
     },
     {
-        "name": "Eleanor",
-        "photo": "http://digitalspyuk.cdnds.net/16/19/980x490/landscape-1463345474-screen-shot-2016-05-15-at-214845.png",
+        "name": "Young Thug",
+        "photo": "https://urbanislandz.com/wp-content/uploads/2018/09/Young-Thug.jpg",
         "scores": [
             5,
             1,
@@ -95,8 +96,8 @@ const friends = [{
         ]
     },
     {
-        "name": "Tahani",
-        "photo": "https://imgix.bustle.com/uploads/image/2017/10/13/b69105c2-dfb3-4a65-ad89-e1ac855c9d90-nup_178286_1455.JPG?w=970&h=582&fit=crop&crop=faces&auto=format&q=70",
+        "name": "Bruno Mars",
+        "photo": "https://www.grammy.com/sites/com/files/styles/image_landscape_hero/public/brunomars-hero_0.jpg?itok=tZdKsVcT",
         "scores": [
             5,
             3,
@@ -111,8 +112,8 @@ const friends = [{
         ]
     },
     {
-        "name": "Jason",
-        "photo": "https://3.bp.blogspot.com/-iu39vOEVWmU/V_HbR4AU1iI/AAAAAAAAAhE/A8gQsExwADEC6TLfQ40wnFqHR2YOTQDzACLcB/s1600/jason-1x04.png",
+        "name": "Beyonce",
+        "photo": "https://www.mercurynews.com/wp-content/uploads/2018/03/beyonce.jpg",
         "scores": [
             3,
             1,
