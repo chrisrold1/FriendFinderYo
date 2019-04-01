@@ -1,6 +1,6 @@
 const friends = [{
-        "name": "Cindy",
-        "photo": "https://vignette.wikia.nocookie.net/thegoodplace/images/9/9c/Mindy-St-Claire.jpg/revision/latest?cb=20180914205021",
+        "name": "50 Cent",
+        "photo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj8iamqiK7hAhVHlKwKHf3uBUcQjRx6BAgBEAU&url=http%3A%2F%2Fgoogle.com%2Fsearch%3Ftbm%3Disch%26q%3DCurtis%2B%252250%2BCent%2522%2BJackson&psig=AOvVaw27wbeUt5JL5leJBqui6EgF&ust=1554179601398215",
         "scores": [
             5,
             3,
@@ -15,8 +15,8 @@ const friends = [{
         ]
     },
     {
-        "name": "Janet",
-        "photo": "https://pbs.twimg.com/media/Dam9HREU8AAtz4e.png",
+        "name": "Jay Z",
+        "photo": "https://static1.squarespace.com/static/552fefabe4b04bbd574e4fc5/t/5c083aca4d7a9c11deac1caa/1544043241202/180528-JAY-Z-Paternity-Getty-800x600.jpg",
         "scores": [
             5,
             5,
@@ -31,8 +31,8 @@ const friends = [{
         ]
     },
     {
-        "name": "Derek",
-        "photo": "https://vignette.wikia.nocookie.net/thegoodplace/images/7/75/Derek.jpg/revision/latest?cb=20171030124055",
+        "name": "Future",
+        "photo": "https://pixel.nymag.com/imgs/daily/vulture/2015/07/15/15-future-rapper.w700.h700.jpg",
         "scores": [
             1,
             3,
@@ -47,7 +47,7 @@ const friends = [{
         ]
     },
     {
-        "name": "Michael",
+        "name": "Kodak Blakk",
         "photo": "https://res.cloudinary.com/jerrick/image/upload/f_auto,fl_progressive,q_auto,c_fit,w_620/qryzqb2ljmkmoxbhmvvu",
         "scores": [
             3,
