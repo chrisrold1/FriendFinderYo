@@ -1,6 +1,6 @@
 const friends = [{
         "name": "50 Cent",
-        "photo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj8iamqiK7hAhVHlKwKHf3uBUcQjRx6BAgBEAU&url=http%3A%2F%2Fgoogle.com%2Fsearch%3Ftbm%3Disch%26q%3DCurtis%2B%252250%2BCent%2522%2BJackson&psig=AOvVaw27wbeUt5JL5leJBqui6EgF&ust=1554179601398215",
+        "photo": "https://gsfiles.s3.amazonaws.com/images/folder8292/Curtis%20Jackson_20150714.jpg",
         "scores": [
             5,
             3,
